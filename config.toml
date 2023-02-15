@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://phone:1313"
+baseURL = "https://doctorsplaybook.pages.dev"
 title = "Doctor's Playbook- Know Your Worth "
 theme = "bookworm-light"
 # post pagination
