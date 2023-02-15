@@ -1,18 +1,17 @@
 ---
-title: "DoctorsPlaybook"
-image: "images/logo2.jpg"
-email: "test@testmail.com"
-date: 2021-02-02T10:20:19+06:00
-draft: false
+title: Doctor's Playbook
+image: images/logo2.jpg
+email: test@testmail.com
+date: 2021-02-02T10:20:19.000+06:00
 social:
-- icon: "la-facebook-f"
-  link: "https://facebook.com"
-- icon: "la-twitter"
-  link: "https://twitter.com"
-- icon: "la-linkedin-in"
-  link: "https://linkedin.com"
----
+- icon: la-facebook-f
+  link: https://facebook.com
+- icon: la-twitter
+  link: https://twitter.com
+- icon: la-linkedin-in
+  link: https://linkedin.com
 
+---
 Welcome to Doctor's PlayBook, the YouTube channel where we explore the fascinating world of healthcare, hospitals, and Technology!
 
 Our channel is run by a team who are passionate about sharing their knowledge and experiences with the world. Our motto is to provide factual and accurate information about hospitals and technology, as well as dive into the darker side of healthcare by sharing horror incidents that have occurred in hospitals.
