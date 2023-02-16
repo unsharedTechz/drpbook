@@ -1,0 +1,63 @@
+---
+label: 'Doctor''s PlayBook '
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: image
+  label: image
+- type: field_group
+  name: caption
+  label: caption
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: social
+  label: social
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: social_links
+    label: social_links
+    fields:
+    - type: text
+      name: link
+      label: link
+    - type: text
+      name: icon
+      label: icon
+- type: field_group
+  name: what_i_do
+  label: what_i_do
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: description
+      label: description
