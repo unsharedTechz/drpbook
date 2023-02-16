@@ -1,6 +1,5 @@
 +++
 Doctor_s_PlayBook_ = ""
-draft = true
 
 +++
 Welcome to Doctor's PlayBook, the YouTube channel where we explore the fascinating world of healthcare, hospitals, and Technology!
