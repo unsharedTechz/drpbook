@@ -1,5 +1,5 @@
 +++
-author = "Doctor's PlayBook "
+author = "DoctorsPlaybook "
 categories = ["Medical Health Tips"]
 date = 2023-02-16T18:30:00Z
 image = "/uploads/png_20230217_114223_0000.png"
