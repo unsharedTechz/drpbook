@@ -166,7 +166,7 @@ weight = 3
 # Social Icons
 [[params.social]]
 icon = "lab la-youtube-square" # https://icons8.com/line-awesome
-url = "https://youtube.com/channel/UC83RSWsiIOAxQi8MYaSh86Q"
+url = "https://www.youtube.com/@DoctorsPlaybook"
 
 
 [[params.social]]
@@ -179,5 +179,5 @@ url = "#/"
 
 [[params.social]]
 icon = "lab la-instagram" # https://icons8.com/line-awesome
-url = "https://www.instagram.com/d33panshuraj"
+url = "https://www.instagram.com/ipikachudz"
 
