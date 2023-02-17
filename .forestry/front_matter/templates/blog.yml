@@ -20,3 +20,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/blog/5-common-misconceptions-about-health-and-medicine-that-you-need-to-know.md
