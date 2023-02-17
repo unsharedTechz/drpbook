@@ -2,7 +2,6 @@
 author = "Doctor's PlayBook "
 categories = ["Medical Health Tips"]
 date = 2023-02-16T18:30:00Z
-draft = true
 image = "/uploads/png_20230217_114223_0000.png"
 tags = ["Neet", "AIIMS Delhi ", "Doctor ", "Doctor's PlayBook ", "disease prevention", "health facts vs fiction", "medical misinformation", "medication overuse", "antibiotics and resistance", "natural remedies vs conventional medicine", "cold weather and illness", "vaccines and autism", "medical myths", "health misconceptions, "]
 title = "5 Common Misconceptions About Health and Medicine That You Need to Know"
